@@ -1,9 +1,9 @@
 {
   "name": "@linkery/shared",
-  "version": "1.0.0",
+  "version": "0.0.0",
+  "repository": "https://github.com/link-bakery/linkery-shared",
   "description": "",
   "main": "src/index.ts",
-  "private": true,
   "keywords": [],
   "author": "Madu-de",
   "license": "ISC",
