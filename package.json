@@ -1,6 +1,6 @@
 {
   "name": "@linkery/shared",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "repository": "https://github.com/link-bakery/linkery-shared",
   "description": "",
   "main": "src/index.ts",
@@ -13,5 +13,6 @@
   },
   "files": [
     "src"
-  ]
+  ],
+  "type": "commonjs"
 }
